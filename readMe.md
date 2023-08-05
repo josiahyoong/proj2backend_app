@@ -1,0 +1,1 @@
+This is the backend app for recording daily food intake for various purposes.
